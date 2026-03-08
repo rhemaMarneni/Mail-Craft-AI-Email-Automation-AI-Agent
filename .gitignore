@@ -1,0 +1,12 @@
+__pycache__/
+lib/
+__init__.py
+
+uv.lock
+
+.env
+.venv
+
+.vscode
+
+test.py
